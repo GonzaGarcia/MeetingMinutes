@@ -96,7 +96,7 @@ git+https://github.com/openai/whisper.git
 openai
 pdfkit
 python-multipart
-dotenv
+python-dotenv
 """
 
 # Guardar el archivo de dependencias
